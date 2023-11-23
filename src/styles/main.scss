@@ -1,0 +1,13 @@
+@import "utils/vars";
+@import "utils";
+
+body {
+  background: $light-pink;
+  overflow: auto;
+}
+
+@import "header";
+@import "button";
+@import "menu";
+@import "main-content";
+@import "footer";
